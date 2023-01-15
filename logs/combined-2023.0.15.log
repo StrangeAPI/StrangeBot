@@ -1,0 +1,84 @@
+{"level":30,"time":1673801477201,"pid":14804,"hostname":"PapasImperium","msg":"Validating config file and environment variables"}
+{"level":40,"time":1673801477202,"pid":14804,"hostname":"PapasImperium","msg":"env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET are missing. Spotify music links won't work"}
+{"level":30,"time":1673801477277,"pid":14804,"hostname":"PapasImperium","msg":"Loading commands..."}
+{"level":20,"time":1673801478030,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673801478032,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673801478034,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673801478037,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673801478039,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673801478049,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673801478051,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673801478053,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673801478056,"pid":14804,"hostname":"PapasImperium","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673801478058,"pid":14804,"hostname":"PapasImperium","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673801478076,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673801478079,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673801478081,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673801478082,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673801478083,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673801478084,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673801478085,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673801478086,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673801478087,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673801478089,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673801478091,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673801478093,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673801478095,"pid":14804,"hostname":"PapasImperium","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673801478096,"pid":14804,"hostname":"PapasImperium","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673801478120,"pid":14804,"hostname":"PapasImperium","msg":"Skipping slash command eval. Disabled!"}
+{"level":50,"time":1673801478121,"pid":14804,"hostname":"PapasImperium","msg":"Failed to load C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\src\\commands\\owner\\leaveserver.js Reason: Missing 'interactionRun' function"}
+{"level":50,"time":1673801478122,"pid":14804,"hostname":"PapasImperium","msg":"Failed to load C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\src\\commands\\owner\\listservers.js Reason: Missing 'interactionRun' function"}
+{"level":30,"time":1673801478151,"pid":14804,"hostname":"PapasImperium","msg":"Loaded 103 commands"}
+{"level":30,"time":1673801478151,"pid":14804,"hostname":"PapasImperium","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1673801478152,"pid":14804,"hostname":"PapasImperium","msg":"Loading contexts..."}
+{"level":30,"time":1673801478153,"pid":14804,"hostname":"PapasImperium","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673801478153,"pid":14804,"hostname":"PapasImperium","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673801478153,"pid":14804,"hostname":"PapasImperium","msg":"Loading events..."}
+{"level":30,"time":1673801478195,"pid":14804,"hostname":"PapasImperium","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1673801478523,"pid":14804,"hostname":"PapasImperium","msg":"VersionCheck: 5.2.0 update is available"}
+{"level":40,"time":1673801478523,"pid":14804,"hostname":"PapasImperium","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1673801478523,"pid":14804,"hostname":"PapasImperium","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1673801479956,"pid":14804,"hostname":"PapasImperium","msg":"Mongoose: Database connection established"}
+{"level":50,"time":1673801480225,"pid":14804,"hostname":"PapasImperium","err":{"type":"DiscordjsError","message":"An invalid token was provided.","stack":"Error [TokenInvalid]: An invalid token was provided.\n    at WebSocketManager.connect (C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:134:26)\n    at BotClient.login (C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\node_modules\\discord.js\\src\\client\\Client.js:226:21)\n    at C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\bot.js:46:16\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","code":"TokenInvalid"},"msg":"Unhandled exception: An invalid token was provided."}
+{"level":30,"time":1673806985950,"pid":21104,"hostname":"PapasImperium","msg":"Validating config file and environment variables"}
+{"level":40,"time":1673806985952,"pid":21104,"hostname":"PapasImperium","msg":"env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET are missing. Spotify music links won't work"}
+{"level":30,"time":1673806986016,"pid":21104,"hostname":"PapasImperium","msg":"Loading commands..."}
+{"level":20,"time":1673806986724,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673806986725,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673806986726,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673806986731,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673806986733,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673806986745,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673806986746,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673806986747,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673806986750,"pid":21104,"hostname":"PapasImperium","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673806986751,"pid":21104,"hostname":"PapasImperium","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673806986767,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673806986769,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673806986771,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673806986773,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673806986775,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673806986776,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673806986778,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673806986778,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673806986779,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673806986780,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673806986781,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673806986783,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673806986785,"pid":21104,"hostname":"PapasImperium","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673806986786,"pid":21104,"hostname":"PapasImperium","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673806986810,"pid":21104,"hostname":"PapasImperium","msg":"Skipping slash command eval. Disabled!"}
+{"level":50,"time":1673806986810,"pid":21104,"hostname":"PapasImperium","msg":"Failed to load C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\src\\commands\\owner\\leaveserver.js Reason: Missing 'interactionRun' function"}
+{"level":50,"time":1673806986811,"pid":21104,"hostname":"PapasImperium","msg":"Failed to load C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\src\\commands\\owner\\listservers.js Reason: Missing 'interactionRun' function"}
+{"level":30,"time":1673806986840,"pid":21104,"hostname":"PapasImperium","msg":"Loaded 103 commands"}
+{"level":30,"time":1673806986841,"pid":21104,"hostname":"PapasImperium","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1673806986841,"pid":21104,"hostname":"PapasImperium","msg":"Loading contexts..."}
+{"level":30,"time":1673806986843,"pid":21104,"hostname":"PapasImperium","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673806986843,"pid":21104,"hostname":"PapasImperium","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673806986843,"pid":21104,"hostname":"PapasImperium","msg":"Loading events..."}
+{"level":30,"time":1673806986885,"pid":21104,"hostname":"PapasImperium","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1673806987208,"pid":21104,"hostname":"PapasImperium","msg":"VersionCheck: 5.2.0 update is available"}
+{"level":40,"time":1673806987208,"pid":21104,"hostname":"PapasImperium","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1673806987208,"pid":21104,"hostname":"PapasImperium","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1673806988418,"pid":21104,"hostname":"PapasImperium","msg":"Mongoose: Database connection established"}
+{"level":50,"time":1673806988679,"pid":21104,"hostname":"PapasImperium","err":{"type":"DiscordjsError","message":"An invalid token was provided.","stack":"Error [TokenInvalid]: An invalid token was provided.\n    at WebSocketManager.connect (C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:134:26)\n    at BotClient.login (C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\node_modules\\discord.js\\src\\client\\Client.js:226:21)\n    at C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\bot.js:46:16\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","code":"TokenInvalid"},"msg":"Unhandled exception: An invalid token was provided."}

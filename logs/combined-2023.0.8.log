@@ -1,0 +1,50 @@
+{"level":30,"time":1673202669462,"pid":1252,"hostname":"PapasImperium","msg":"Validating config file and environment variables"}
+{"level":40,"time":1673202669464,"pid":1252,"hostname":"PapasImperium","msg":"env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET are missing. Spotify music links won't work"}
+{"level":30,"time":1673202669556,"pid":1252,"hostname":"PapasImperium","msg":"Loading commands..."}
+{"level":20,"time":1673202670432,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673202670434,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673202670436,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673202670440,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673202670442,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673202670454,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673202670455,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673202670457,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673202670460,"pid":1252,"hostname":"PapasImperium","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673202670461,"pid":1252,"hostname":"PapasImperium","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673202670477,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673202670479,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673202670481,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673202670482,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673202670483,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673202670485,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673202670486,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673202670487,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673202670488,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673202670490,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673202670492,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673202670494,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673202670497,"pid":1252,"hostname":"PapasImperium","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673202670499,"pid":1252,"hostname":"PapasImperium","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673202670530,"pid":1252,"hostname":"PapasImperium","msg":"Skipping slash command eval. Disabled!"}
+{"level":50,"time":1673202670531,"pid":1252,"hostname":"PapasImperium","msg":"Failed to load C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\src\\commands\\owner\\leaveserver.js Reason: Missing 'interactionRun' function"}
+{"level":50,"time":1673202670532,"pid":1252,"hostname":"PapasImperium","msg":"Failed to load C:\\Users\\blvck\\Nextcloud\\Samuel\\Discord\\Bots\\Strange-Bot\\src\\commands\\owner\\listservers.js Reason: Missing 'interactionRun' function"}
+{"level":30,"time":1673202670567,"pid":1252,"hostname":"PapasImperium","msg":"Loaded 103 commands"}
+{"level":30,"time":1673202670567,"pid":1252,"hostname":"PapasImperium","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1673202670567,"pid":1252,"hostname":"PapasImperium","msg":"Loading contexts..."}
+{"level":30,"time":1673202670569,"pid":1252,"hostname":"PapasImperium","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673202670569,"pid":1252,"hostname":"PapasImperium","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673202670569,"pid":1252,"hostname":"PapasImperium","msg":"Loading events..."}
+{"level":30,"time":1673202670617,"pid":1252,"hostname":"PapasImperium","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1673202670935,"pid":1252,"hostname":"PapasImperium","msg":"VersionCheck: 5.2.0 update is available"}
+{"level":40,"time":1673202670935,"pid":1252,"hostname":"PapasImperium","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1673202670935,"pid":1252,"hostname":"PapasImperium","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1673202672252,"pid":1252,"hostname":"PapasImperium","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1673202673189,"pid":1252,"hostname":"PapasImperium","msg":"Logged in as Strange Bot#0759! (1060235968587771915)"}
+{"level":20,"time":1673202673190,"pid":1252,"hostname":"PapasImperium","msg":"Node \"undefined\" debug: connection: creating websocket..."}
+{"level":30,"time":1673202673191,"pid":1252,"hostname":"PapasImperium","msg":"Music Manager initialized"}
+{"level":30,"time":1673202673191,"pid":1252,"hostname":"PapasImperium","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1673202673326,"pid":1252,"hostname":"PapasImperium","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1673202673681,"pid":1252,"hostname":"PapasImperium","msg":"Successfully registered interactions"}
+{"level":30,"time":1673202673973,"pid":1252,"hostname":"PapasImperium","msg":"Node \"undefined\" connected"}
+{"level":20,"time":1673202673973,"pid":1252,"hostname":"PapasImperium","msg":"Node \"undefined\" debug: connection: connected in 782ms"}
+{"level":20,"time":1673202673984,"pid":1252,"hostname":"PapasImperium","msg":"Node \"undefined\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":1,\"op\":\"stats\",\"memory\":{\"reservable\":259522560,\"used\":88104904,\"free\":25899064,\"allocated\":114003968},\"players\":2,\"cpu\":{\"cores\":1,\"systemLoad\":0,\"lavalinkLoad\":0.19712058586923353},\"uptime\":76482359}"}
